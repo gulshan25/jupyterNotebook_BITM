@@ -23,3 +23,9 @@ jupyter notebook
 click on new button and choose python 3(ipykernel)
 
 code .
+
+///////Jupyter Notebook/////
+
+import folium
+
+pip install folium
