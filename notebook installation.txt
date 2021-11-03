@@ -1,0 +1,25 @@
+pip install virtualenv
+
+virtualenv myenv
+
+myenv\Scripts\activate
+
+cd myenv
+
+cd Scripts
+
+activate
+
+pip install notebook
+
+pip freeze
+
+cd..
+
+cd..
+
+jupyter notebook
+
+click on new button and choose python 3(ipykernel)
+
+code .
